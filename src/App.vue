@@ -1,5 +1,6 @@
 <template>
   Nurlan
+  git commit 
 </template>
 
 <script>
