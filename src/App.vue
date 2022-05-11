@@ -1,23 +1,18 @@
 <template>
-  Nurlan
-  git commit 
+  <router-view></router-view>
 </template>
 
-<script>
-
-export default {
-  name: 'App',
-  components: {
-    
-  }
-}
-</script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin: 0;
 }
 </style>
